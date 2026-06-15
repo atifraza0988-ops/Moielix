@@ -1,0 +1,6 @@
+{
+  "name": "MOVIELIX",
+  "description": "Premium luxury cinematic movie streaming app with glassmorphism UI, real-time UPI QR codes payment processing, and comprehensive admin settings panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
